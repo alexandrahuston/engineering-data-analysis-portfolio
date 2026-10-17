@@ -17,6 +17,15 @@ This project compares the six-year financial cost of owning five different vehic
 
 The goal was to identify which vehicle type offered the lowest estimated net present cost while accounting for uncertainty in operating costs and other financial assumptions.
 
+## Project Files
+
+- [View Original Excel Model](excel/vehicle-ownership-original.xlsx)
+- [View Original Project Report (PDF)](report/vehicle-ownership-original-report.pdf)
+
+The Excel workbook contains the original vehicle ownership cost models, including calculations for five vehicle alternatives and saved risk analysis results.
+
+The PDF report documents the project assumptions, methodology, financial comparisons, Monte Carlo simulation results, and conclusions from the original group project.
+
 ## Objectives
 
 - Compare the total cost of ownership across five vehicle categories.
