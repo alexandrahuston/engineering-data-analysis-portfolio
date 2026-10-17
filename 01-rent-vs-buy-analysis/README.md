@@ -76,6 +76,14 @@ The original report also included cumulative-cost comparisons and discussion of 
 
 **Validation note:** The cumulative-cost discussion and NPV-based interpretation in the original report require reconciliation before making a definitive recommendation. These values are preserved here as originally reported.
 
+## Results Visualization
+
+![Six-Year Rent vs. Buy Cost Comparison](visuals/rent-vs-buy-npv-comparison.png)
+
+The original model reported a net present cost of approximately $114,140 for renting and $100,517 for buying over six years.
+
+Under these assumptions, buying had approximately $13,623 less in discounted net costs. These figures are taken from the original coursework and have not yet been independently revalidated.
+
 ## Skills Demonstrated
 
 - Excel financial modeling
