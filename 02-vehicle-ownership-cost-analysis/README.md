@@ -85,6 +85,24 @@ Under the original model assumptions, the Toyota Corolla had the lowest median n
 
 The Tesla Model 3 was the least expensive option in 8.6% of scenarios, demonstrating how changes in operating costs and other assumptions can affect the relative competitiveness of electric vehicles.
 
+## Results Visualizations
+
+### Six-Year Vehicle Ownership Cost Comparison
+
+![Vehicle Ownership Cost Comparison](visuals/vehicle-ownership-cost-comparison.png)
+
+The Toyota Corolla had the lowest median net present cost at $31,686, followed by the Tesla Model 3 at $32,469.
+
+These results reflect the assumptions used in the original 2025 analysis, including financing, fuel costs, maintenance, incentives, and resale value.
+
+### Probability of Lowest Ownership Cost
+
+![Probability of Lowest Cost](visuals/vehicle-ownership-lowest-cost-probability.png)
+
+The original Monte Carlo simulation estimated a 90% probability that the Toyota Corolla would be the least expensive vehicle, followed by the Tesla Model 3 at 8.6% and the Chevrolet Malibu at 1.4%.
+
+The simulation was originally performed using @RISK during coursework. These charts visualize the reported results rather than a newly executed simulation.
+
 ## Skills Demonstrated
 
 - Excel modeling
