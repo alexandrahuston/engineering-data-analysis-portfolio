@@ -13,6 +13,13 @@ The analysis compares initial expenses, recurring monthly costs, financing, prop
 
 A 72-month Excel model was developed to calculate the net present value (NPV) of both alternatives.
 
+## Project Files
+
+- [View Original Excel Model](excel/rent-vs-buy-original.xlsx)
+- [View Original Project Report (PDF)](report/rent-vs-buy-original-report.pdf)
+
+The Excel workbook contains the original calculations and financial models developed for this case study. The PDF report documents the methodology, assumptions, results, and conclusions from the original group project.
+
 ## Objectives
 
 - Calculate the financial costs of renting versus buying over six years.
