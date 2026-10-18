@@ -13,6 +13,17 @@ The scenario follows an individual beginning their career at age 25, retiring at
 
 The objective was to estimate the percentage of annual income that must be saved to support a retirement income equal to 70% of the final working salary.
 
+## Project Files
+
+- [View Excel Financial Model](excel/retirement-savings-model.xlsx)
+- [View Retirement Savings Report (PDF)](report/retirement-savings-analysis.pdf)
+
+The Excel workbook contains the original financial model, including salary projections, retirement contributions, investment growth, and retirement withdrawals.
+
+The PDF report documents the original methodology, assumptions, calculations, and findings.
+
+The results visualizations below were recreated using calculated values from the original Excel workbook.
+
 ## Key Assumptions
 
 | Variable | Assumption |
