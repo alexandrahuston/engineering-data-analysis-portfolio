@@ -13,6 +13,32 @@ A hypothetical investment firm, GlobalVest Partners, must decide whether to allo
 
 The analysis uses decision trees, probabilities, expected monetary value, and expected utility to evaluate both options.
 
+## Project Files
+
+- [View Excel Decision Analysis Model](excel/investment-risk-decision-analysis.xlsx)
+- [View Original Project Report (PDF)](report/investment-risk-decision-analysis-report.pdf)
+- [View Original Decision Tree](visuals/investment-risk-decision-analysis-decision-tree.png)
+
+The Excel workbook contains the original decision-tree model, probability calculations, expected monetary values, expected utility calculations, and Goal Seek analysis.
+
+The PDF report documents the original methodology, assumptions, results, and conclusions from the Spring 2025 coursework.
+
+## Results Visualization
+
+### Investment Decision Tree
+
+![Investment Risk Decision Tree](visuals/investment-risk-decision-analysis-decision-tree.png)
+
+The decision tree compares two strategies: investing 15% of a $1 billion portfolio in cryptocurrency or maintaining the existing investment allocation.
+
+Each alternative includes three possible outcomes with assigned probabilities and monetary gains.
+
+Although investing produced a higher expected monetary gain ($15 million versus $13.5 million), maintaining the existing allocation produced a higher expected utility (0.2198 versus 0.1432) under the assumed $50 million risk tolerance.
+
+This demonstrates how risk preferences can influence financial decisions beyond expected monetary returns.
+
+The visualization and results are from the original 2025 Excel analysis.
+
 ## Objectives
 
 - Construct a decision tree for two investment alternatives.
