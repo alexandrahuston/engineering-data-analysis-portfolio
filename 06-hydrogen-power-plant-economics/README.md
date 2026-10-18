@@ -13,6 +13,30 @@ The analysis calculates the levelized cost of electricity (LCOE) over a 20-year 
 
 The objective was to determine the estimated electricity production cost and identify the financial and technical variables that have the greatest influence on that cost.
 
+## Project Files
+
+- [View Original Excel Model](excel/hydrogen-power-plant-economics.xlsx)
+- [View Original Project Report (PDF)](report/hydrogen-power-plant-economics-report.pdf)
+- [View LCOE Uncertainty Graph](visuals/hydrogen-lcoe-uncertainty.png)
+
+The Excel workbook contains the original hydrogen power plant economic model, including energy production, hydrogen consumption, operating costs, discounted cash flows, and LCOE calculations.
+
+The PDF report documents the original methodology, assumptions, and @RISK simulation results from Spring 2025 coursework.
+
+## Results Visualization
+
+### Levelized Cost of Electricity and Uncertainty
+
+![Hydrogen Power Plant LCOE Uncertainty](visuals/hydrogen-lcoe-uncertainty.png)
+
+The deterministic analysis estimated an LCOE of approximately $380.00/MWh, while the original Monte Carlo simulation reported a mean of $382.50/MWh.
+
+The reported 90% simulation interval ranged from $313.11/MWh to $464.44/MWh, demonstrating the uncertainty associated with the modeled electricity generation costs.
+
+The original analysis identified hydrogen fuel cost as the most influential variable affecting LCOE.
+
+This visualization was created using summary statistics from the original 2025 coursework. The @RISK simulation was not independently rerun.
+
 ## Key Assumptions
 
 | Variable | Assumption |
