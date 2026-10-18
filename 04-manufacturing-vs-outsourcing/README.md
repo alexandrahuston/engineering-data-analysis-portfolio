@@ -13,6 +13,17 @@ The analysis compares the financial performance of both sourcing strategies over
 
 The objective was to evaluate how initial investment, manufacturing costs, tariffs, depreciation, taxes, and cash flows influence the sourcing decision.
 
+## Project Files
+
+- [View Original Excel Model](excel/manufacturing-vs-outsourcing-original.xlsx)
+- [View Original Project Report (PDF)](report/manufacturing-vs-outsourcing-original-report.pdf)
+
+The Excel workbook contains the original manufacturing-versus-outsourcing financial model, including cost assumptions, cash flow calculations, depreciation, taxes, NPV, and IRR analysis.
+
+The PDF report documents the methodology, results, and conclusions from the original Spring 2025 engineering economics coursework.
+
+These files are preserved as originally submitted for the course. The financial results have not been independently revalidated.
+
 ## Business Problem
 
 A hypothetical manufacturer, Voltara, requires 50,000 ECUs annually for ten years.
