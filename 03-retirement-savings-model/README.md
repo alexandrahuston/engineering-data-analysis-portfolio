@@ -61,6 +61,26 @@ Under the original assumptions, the model estimated that approximately **32% of 
 
 The original sensitivity analysis showed that investment performance, salary growth, and inflation assumptions significantly affected projected savings requirements and account balances.
 
+## Results Visualizations
+
+### Retirement Savings Accumulation
+
+![40-Year Retirement Savings Accumulation](visuals/retirement-savings-accumulation.png)
+
+The model projects retirement account growth over 40 working years, reaching approximately $7.46 million by the end of the accumulation period.
+
+The results demonstrate the long-term impact of consistent contributions and compound investment returns.
+
+### Retirement Withdrawal Phase
+
+![30-Year Retirement Withdrawal Phase](visuals/retirement-savings-withdrawal.png)
+
+During the 30-year retirement period, the account balance initially increases slightly before gradually declining as withdrawals grow.
+
+Under the original model assumptions, the retirement account retains approximately $4.50 million at the end of the modeled period.
+
+Both visualizations were recreated using the calculated values from the original 2025 Excel model.
+
 ## Skills Demonstrated
 
 - Excel financial modeling
