@@ -71,7 +71,7 @@ The original analysis identified domestic manufacturing as the preferred sourcin
 
 The report calculated an incremental NPV of approximately $1.78 million in favor of domestic manufacturing.
 
-**Validation note:** The original IRR and incremental IRR results require further review, particularly their interpretation relative to the 15% MARR. The findings presented here reflect the original coursework and have not yet been independently reconciled.
+**Note:** Results are presented as originally calculated and submitted for the Spring 2025 coursework. The model has not been independently revalidated, and its financial conclusions should be interpreted within the assumptions and limitations of the original assignment.
 
 ## Skills Demonstrated
 
